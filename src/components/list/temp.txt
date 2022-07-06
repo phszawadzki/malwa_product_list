@@ -1,7 +1,6 @@
   {
     name: '',
     code: '',
-    image1: IMG,
-    image2: IMG,
-    image3: IMG,
+    image1: '',
+    image2: '',
   },

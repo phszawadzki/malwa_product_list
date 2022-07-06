@@ -11,6 +11,22 @@ body {
 }
 
 .image {
-    max-width: 100px;
-    
+    width: 200px;  
+    height: 200px;  
+}
+
+.name {
+    height: 3rem;
+}
+
+.button_link a {
+    text-decoration: none;
+    background-color: #e37916;
+    padding: 10px 20px;
+    color: white;
+}
+
+.button_link a:hover {
+    background-color: black;
+    color: white;
 }
